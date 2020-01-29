@@ -1,0 +1,49 @@
+#real-time-table {
+    background: #F0F0F0;
+    width: 100%;
+    font-weight: 100;
+    border-collapse: collapse;
+}
+
+#real-time-table thead {
+    background: #CFCFCF;
+}
+
+#real-time-table .team-logo {
+    width: 55px;
+    height: 55px;
+}
+
+#real-time-table thead tr {
+    color: #666666;
+}
+
+#real-time-table thead th {
+    padding: 0 5px 0 5px;
+}
+
+#real-time-table tbody th {
+    font-size: 21px;
+}
+
+#real-time-table .real-time-weighted {
+    color: #C80F2E;
+}
+
+#real-time-table .real-time-mins {
+    color: #4791e0;
+}
+
+#real-time-table .real-time-name {
+    font-family: 'Action', 'Teko', Arial, SansSerif;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+#real-time-user-stats {
+    width: 100%;
+}
+
+#real-time-user-stats span {
+    float: right;
+}

@@ -1,0 +1,24 @@
+{
+    "name": "NBA Fantasy Assitor(TW)",
+    "version": "1.0",
+    "description": "Helping people play nba fantasy game(TW version) to get more information by chrome extension. Using this extension play game more smoothly.",
+    "manifest_version": 2,
+    "permissions": [
+        "https://tw.global.nba.com/*",
+        "https://tw.global.nba.com/"
+    ],
+    "content_scripts": [
+        {
+            "matches": ["https://nba.udn.com/fantasy/*"],
+            "js": ["content.js"],
+            "css": ["contentCss.css"],
+            "run_at": "document_end"
+        }
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    }
+}
