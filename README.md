@@ -12,8 +12,8 @@ Using this extension play game more smoothly.
 1. Get data of players you selected in real-time today.
 
 ## Installing 
-1. Download the directory of source code.
+1. Download the source code into a new create folder on your system.
 2. Open Chrome and type ````chrome://extensions/```` in address bar.
 3. Enable the ```Developer mode```
-4. Click Button ```Load unpacked``` and Chose directory you downloaded.
+4. Click Button ```Load unpacked``` and chose the folder you created.
 
