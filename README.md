@@ -4,7 +4,7 @@ Helping people play nba fantasy game(TW version) to get more information by chro
 Using this extension play game more smoothly.
 
 ## Getting Start
->It is a extension for chrome.
+>It is an extension for chrome.
 >Needless any private information.
 >Works on website [NBA Fantasy](https://nba.udn.com/fantasy/fantasy).
 
